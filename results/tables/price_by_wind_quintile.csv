@@ -1,0 +1,6 @@
+wind_quintile,avg_wind_mw,avg_price,share_negative_hours_pct
+Q1 (low),348.61,101.74,0.0
+Q2,1095.13,75.01,0.17
+Q3,2123.19,51.51,0.91
+Q4,3428.71,33.45,2.74
+Q5 (high),5176.3,17.18,2.11
