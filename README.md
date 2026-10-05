@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/33063244/README.md)
-# finnish-onshore-wind-investment-case# Finnish Onshore Wind – Independent Investment Case
+## Finnish Onshore Wind – Independent Investment Case
 
 **What would have to be true for a 100 MW onshore wind farm in Finland to reach FID?**
 
