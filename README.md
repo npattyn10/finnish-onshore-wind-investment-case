@@ -73,4 +73,4 @@ ENTSO-E Transparency Platform · Fingrid Open Data · EEX Finnish Power Futures 
 
 ## Author
 
-[Your name] · [LinkedIn] · [Email]
+[Nils Pattyn] · [[LinkedIn](https://www.linkedin.com/in/nils-pattyn/)] · 
