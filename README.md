@@ -19,8 +19,8 @@ Recommendation: take FID only with a ≥ 15-year corporate PPA at about 70–74 
 
 | Item | Location |
 | --- | --- |
-| Decision deck (12 slides) | `docs/deck.pdf` |
-| Investment memo | `docs/memo.pdf` |
+| Decision deck (12 slides) | `docs/finnish-onshore-wind_decision-deck.pdf` |
+| Investment memo | `docs/finnish-onshore-wind_investment-memo.pdf` |
 | Project finance model | `model/Finnish_Onshore_Wind_Project_Finance_Model_v1_8.xlsx` |
 | Market analysis scripts | `src/` |
 | Result tables | `results/tables/` |
