@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33063244/README.md)
 ## Finnish Onshore Wind – Independent Investment Case
 
 **What would have to be true for a 100 MW onshore wind farm in Finland to reach FID?**
@@ -69,8 +68,8 @@ AI (Claude, Anthropic) was used for formula auditing, source discovery, drafting
 
 ## Main sources
 
-ENTSO-E Transparency Platform · Fingrid Open Data · EEX Finnish Power Futures · KYOS PPA Insights No. 19 (Jun 2026) · LevelTen European PPA Price Index (Q1/Q2 2026) · Pexapark · IRENA, Renewable Power Generation Costs in 2025 · Clean Horizon Storage Index · OX2 press releases (2025) · Lampela, S. (2023), MSc thesis, Tampere University. Paid or copyrighted reports are cited, not included.
+ENTSO-E Transparency Platform · Fingrid Open Data · EEX Finnish Power Futures · KYOS PPA Insights No. 19 (Jun 2026) · LevelTen European PPA Price Index (Q1/Q2 2026) · Pexapark · IRENA, Renewable Power Generation Costs in 2025 · Clean Horizon Storage Index · OX2 press releases (2025) · Lampela, S. (2023), MSc thesis, Tampere University. Paid or copyrighted reports are cited, not included. Code and model are licensed under MIT. Third-party data and reports remain under their own licences (e.g. Fingrid data CC BY 4.0).
 
 ## Author
 
-[Nils Pattyn] · [[LinkedIn](https://www.linkedin.com/in/nils-pattyn/)] · 
+Nils Pattyn · [LinkedIn](https://www.linkedin.com/in/nils-pattyn/) · 
