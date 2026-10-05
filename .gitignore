@@ -1,0 +1,19 @@
+# Raw and processed data (download per README; licence for redistribution not checked)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Credentials
+.env
+*.key
+config_local.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*.xlsx
